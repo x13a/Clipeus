@@ -1,3 +1,3 @@
-# Privacy Police
+# Privacy Policy
 
 The app has nothing to store.

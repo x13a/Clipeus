@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Clipeus</string>
-    <string name="service_label">Shield</string>
+    <string name="service_label">Cleaner</string>
     <string name="clipboard_cleaned">Clipboard cleaned</string>
 </resources>

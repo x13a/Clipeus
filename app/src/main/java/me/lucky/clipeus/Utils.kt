@@ -15,10 +15,6 @@ class Utils(private val ctx: Context) {
             manager?.setPrimaryClip(ClipData.newPlainText("", ""))
         }
         if (manager != null && showToast)
-            Toast.makeText(
-                ctx,
-                ctx.getString(R.string.clipboard_cleaned),
-                Toast.LENGTH_SHORT,
-            ).show()
+            Toast.makeText(ctx, R.string.clipboard_cleaned, Toast.LENGTH_SHORT).show()
     }
 }

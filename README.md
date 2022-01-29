@@ -6,14 +6,10 @@ Clipboard cleaner.
      src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/me.lucky.clipeus/)
-
-[comment]: <> ([<img )
-
-[comment]: <> (      src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" )
-
-[comment]: <> (      alt="Get it on Google Play" )
-
-[comment]: <> (      height="80">]&#40;https://play.google.com/store/apps/details?id=me.lucky.clipeus&#41;)
+[<img
+      src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+      alt="Get it on Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=me.lucky.clipeus)
 
 <img 
      src="https://raw.githubusercontent.com/x13a/Clipeus/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" 
@@ -23,12 +19,12 @@ Clipboard cleaner.
 Tiny app to clean clipboard.
 
 No UI. Click on the app icon to clean clipboard. 
-Also you can grant device and app notifications permission to clean clipboard on screen off.
+Also you can grant device and app notifications permission to clean clipboard automatically on 
+screen off.
 
 ## Permissions
 
-- Notifications    - receive screen off event
-- QueryAllPackages - disable notification events for all apps on Android 12 and newer
+* NOTIFICATION_LISTENER - receive screen off events (optional)
 
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
