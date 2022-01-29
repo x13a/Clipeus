@@ -14,7 +14,7 @@ class Utils(private val ctx: Context) {
         } else {
             manager?.setPrimaryClip(ClipData.newPlainText("", ""))
         }
-        if (showToast)
+        if (manager != null && showToast)
             Toast.makeText(
                 ctx,
                 ctx.getString(R.string.clipboard_cleaned),
