@@ -23,8 +23,7 @@ class NotificationListenerService : NotificationListenerService() {
 
     override fun onListenerConnected() {
         super.onListenerConnected()
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.S) return
-        migrate()
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) migrate()
     }
 
     @RequiresApi(Build.VERSION_CODES.S)
@@ -45,7 +44,7 @@ class NotificationListenerService : NotificationListenerService() {
     private class ScreenReceiver : BroadcastReceiver() {
         override fun onReceive(context: Context?, intent: Intent?) {
             if (context == null || intent?.action != Intent.ACTION_SCREEN_OFF) return
-            Utils(context).clean()
+            Utils(context).clean(false)
         }
     }
 }

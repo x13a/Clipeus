@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Clipeus</string>
     <string name="service_label">Щит</string>
+    <string name="clipboard_cleaned">Буфер обмена очищен</string>
 </resources>
