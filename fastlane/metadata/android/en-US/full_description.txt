@@ -1,0 +1,11 @@
+Tiny app to clean clipboard.
+
+No UI. Click on the app icon to clean clipboard.
+Also you can grant device and app notifications permission to clean clipboard on screen off.
+
+Permissions:
+* Notifications    - receive screen off event
+* QueryAllPackages - disable notification events for all apps on Android 12 and newer
+
+It is Free Open Source Software.
+License: GPL-3
