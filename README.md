@@ -19,12 +19,17 @@ Clipboard cleaner.
 Tiny app to clean clipboard.
 
 No UI. Click on the app icon to clean clipboard. 
-Also you can grant device and app notifications permission to clean clipboard automatically on 
-screen off.
+Also you can grant device & app notifications permission to clean clipboard automatically on 
+screen off (long tap on the app icon).
 
 ## Permissions
 
 * NOTIFICATION_LISTENER - receive screen off events (optional)
+
+## Related
+
+* [ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner)
+* [ClipeusX](https://github.com/x13a/ClipeusX)
 
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)

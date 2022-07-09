@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="settings"
+        android:shortcutShortLabel="@string/settings"
+        android:icon="@drawable/ic_baseline_settings_24">
+        <intent android:action="android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS" />
+    </shortcut>
+</shortcuts>
