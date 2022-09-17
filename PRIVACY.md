@@ -1,3 +1,3 @@
 # Privacy Policy
 
-The app has nothing to store.
+The app Clipeus (me.lucky.clipeus) has nothing to store.
