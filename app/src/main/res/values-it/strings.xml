@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clipeus</string>
+    <string name="clipboard_cleaned">Appunti cancellati</string>
+    <string name="settings">Impostazioni</string>
+</resources>
