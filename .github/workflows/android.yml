@@ -23,7 +23,6 @@ on:
       - 'gradlew'
       - 'gradlew.bat'
       - '.github/workflows/android.yml'
-  workflow_dispatch:
 
 jobs:
   build:
