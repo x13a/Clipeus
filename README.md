@@ -34,6 +34,7 @@ screen off event (long tap on the app icon).
 * [ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner)
 * [ClipeusX](https://github.com/x13a/ClipeusX)
 * [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian)
+* [ClearClipboard](https://github.com/amnesica/ClearClipboard)
 
 ## Localization
 
