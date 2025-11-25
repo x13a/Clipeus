@@ -2,7 +2,7 @@ Tiny app to clean clipboard.
 
 No UI. Click on the app icon to clean clipboard.
 Also you can grant device & app notifications permission to clean clipboard automatically on
-screen off (long tap on the app icon).
+screen off event (long tap on the app icon).
 
 Permissions:
 * NOTIFICATION_LISTENER - receive screen off events (optional)
