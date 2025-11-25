@@ -1,0 +1,5 @@
+android 16 update
+
+thanks:
+ - @FossLover0 for adding monochrome icons
+ - @chaoscalm for Italian translation and bumping Java version
