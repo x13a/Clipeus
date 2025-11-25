@@ -1,5 +1,7 @@
 Tiny app to clean clipboard.
 
+> It may not work on Samsung. For some reason Samsung doesn't clean clipboard on api call.
+
 No UI. Click on the app icon to clean clipboard.
 Also you can grant device & app notifications permission to clean clipboard automatically on
 screen off event (long tap on the app icon).

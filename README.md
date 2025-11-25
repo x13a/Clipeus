@@ -2,6 +2,9 @@
 
 Clipboard cleaner.
 
+> [!WARNING]
+> It may not work on Samsung. For some reason Samsung doesn't clean clipboard on api call.
+
 [<img
      src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
